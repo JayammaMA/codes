@@ -17,7 +17,7 @@ github class
     <font color="green">3</font><br>
     <font color="black">4</font><br>
     <font color="blue">5</font><br>
-    <font color="purple>6</font><br>
+    <font color="purple">6</font><br>
     <font color="grey">7</font><br>
     <font color="maroon">8</font><br>
     <font color="orange">9</font><br>
