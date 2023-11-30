@@ -24,3 +24,19 @@ github class
     <font color="yellow">10</font><br>
   </body>   
 </html>
+
+
+
+<html>
+  <head>
+  <title>
+    svg line and rectangle
+  </title>
+  </head>
+  <body>
+    <svg width="400" height="400">
+      <line x1="50" y1="50" x2="250" y2="50" stroke="black" stroke-width="2"/>
+      <rect x="50" y="100" width="200" height="100" fill="violet" stroke="black" stroke-width="2"/>
+    </svg>
+  </body>
+</html>
